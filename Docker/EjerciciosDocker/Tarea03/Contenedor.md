@@ -17,3 +17,5 @@ docker ps
 ### Mostrar el fichero /etc/os-release sin entrar en el contenedor
 
 docker exec ubuntu cat /etc/os-release
+
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Docker/EjerciciosDocker/Tarea03/ubuntu.jpg)

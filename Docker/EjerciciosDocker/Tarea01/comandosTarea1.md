@@ -34,3 +34,9 @@ docker --version
 ### Ejecutar "Hola Mundo"
 Para ejecutar el contenedor que muestra "Hola Mundo", utiliza el siguiente comando:
 docker run hello-world
+
+
+
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Docker/EjerciciosDocker/Tarea01/Hello%20world.jpg)
+
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Docker/EjerciciosDocker/Tarea01/docker.jpg)
