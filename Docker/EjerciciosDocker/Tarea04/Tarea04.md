@@ -32,8 +32,8 @@ docker run -d --name bbdd -p 3336:3306 \
     mariadb
 
 
-    ![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Docker/EjerciciosDocker/Tarea04/instalacion.jpg)
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Docker/EjerciciosDocker/Tarea04/instalacion.jpg)
 
 
     
-    ![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Docker/EjerciciosDocker/Tarea04/Config%20MAriaDB.jpg)
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Docker/EjerciciosDocker/Tarea04/Config%20MAriaDB.jpg)
