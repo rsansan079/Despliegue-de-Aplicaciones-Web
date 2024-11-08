@@ -9,7 +9,7 @@ docker run -d --name web -p 8181:80 php:7.3-apache
 
 ##  Copiar el archivo index.html al directorio raíz del servicio web en el contenedor. 
 
-echo "<h1>HOLA SOY [Tu Nombre y Apellido]</h1>" > index.html
+echo "<h1>HOLA SOY Rafa Sanchez</h1>" > index.html
 
 docker cp index.html web:/var/www/html/
 
