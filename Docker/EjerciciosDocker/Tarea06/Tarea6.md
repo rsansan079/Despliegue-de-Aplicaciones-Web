@@ -41,7 +41,13 @@ Docker no permite eliminar una imagen si hay contenedores (en ejecución o deten
 
 
 
-![](
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Docker/EjerciciosDocker/Tarea06/ubuntu12.jpg)
+
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Docker/EjerciciosDocker/Tarea06/docker%20ps.jpg)
+
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Docker/EjerciciosDocker/Tarea06/rm%20ubuntu.jpg)
+
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Docker/EjerciciosDocker/Tarea06/eliminado.jpg)
 
 
 
