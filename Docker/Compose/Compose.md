@@ -60,8 +60,8 @@ volumes:
 docker-compose up -d
 
 
-![]()
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Docker/Compose/1.png)
 
-![]()
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Docker/Compose/Final.png)
 
 
