@@ -48,17 +48,19 @@ chown smith:smith /home/smith
 mkdir /home/ncs
 chmod 777 /home/ncs
 
-![]()
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Trimestre2/Lab3/Cap%20Ej3.1.jpg)
 
 ### Crear un script hello.sh que imprima "Hello World"
 sudo nano hello.sh
 
 chmod +x /home/ncs/hello.sh
 
-![]()
-
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Trimestre2/Lab3/Cap%20Ej3.2.jpg)
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Trimestre2/Lab3/Cap%20Ej3.3.jpg)
 ### Ejecutarlo:
 
 ./hello.sh
 
-![]()
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Trimestre2/Lab3/Cap%20Ej3.4.jpg)
+
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Trimestre2/Lab3/Cap%20Ej3.5.jpg)
