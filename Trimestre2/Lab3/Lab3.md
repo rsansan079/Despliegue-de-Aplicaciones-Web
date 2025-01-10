@@ -24,3 +24,13 @@ Dar permisos 777 a un archivo implica que cualquier usuario en el sistema puede 
 
 
 ## Ejercicio 2
+
+### Crear los usuarios bob y smith con contraseñas
+
+useradd -d /home/bob bob
+mkdir /home/bob
+chown bob:bob /home/bob
+
+useradd -d /home/smith smith
+mkdir /home/smith
+chown smith:smith /home/smith
