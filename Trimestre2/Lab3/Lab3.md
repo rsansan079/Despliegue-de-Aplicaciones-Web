@@ -64,3 +64,56 @@ chmod +x /home/ncs/hello.sh
 ![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Trimestre2/Lab3/Cap%20Ej3.4.jpg)
 
 ![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Trimestre2/Lab3/Cap%20Ej3.5.jpg)
+
+
+## Ejercicio 4
+
+### Iniciar sesión como bob y verificar contenido:
+
+ Presionar Ctrl+Alt+F2 y loguearse como bob
+cd /home/ncs
+ls
+
+![]()
+
+### Ejecutar hello.sh:
+
+./hello.sh
+
+
+![]()
+
+
+### Crear bob.sh:
+
+echo -e "#!/bin/bash\necho 'Hello this is Bob'" > /home/ncs/bob.sh
+chmod +x /home/ncs/bob.sh
+
+
+![]()
+
+
+
+### Iniciar sesión como smith y verificar contenido:
+
+ Presionar Ctrl+Alt+F2 y loguearse como smith
+cd /home/ncs
+ls
+
+![]()
+
+### Ejecutar hello.sh:
+
+./hello.sh
+
+
+![]()
+
+
+### Crear smith.sh:
+
+echo -e "#!/bin/bash\necho 'Hello this is Smith'" > /home/ncs/smith.sh
+chmod +x /home/ncs/smith.sh
+
+
+![]()
