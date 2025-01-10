@@ -31,6 +31,34 @@ useradd -d /home/bob bob
 mkdir /home/bob
 chown bob:bob /home/bob
 
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Trimestre2/Lab3/Cap%20Ej2.1.jpg)
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Trimestre2/Lab3/Cap%20Ej2.2.jpg)
+
 useradd -d /home/smith smith
 mkdir /home/smith
 chown smith:smith /home/smith
+
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Trimestre2/Lab3/Cap%20Ej2.3.jpg)
+
+
+## Ejercicio 3
+
+### Crear un directorio público:
+
+mkdir /home/ncs
+chmod 777 /home/ncs
+
+![]()
+
+### Crear un script hello.sh que imprima "Hello World"
+sudo nano hello.sh
+
+chmod +x /home/ncs/hello.sh
+
+![]()
+
+### Ejecutarlo:
+
+./hello.sh
+
+![]()
