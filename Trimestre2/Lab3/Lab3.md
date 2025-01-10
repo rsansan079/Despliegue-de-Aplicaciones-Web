@@ -15,5 +15,5 @@ echo "Hola Mundo"
 chmod +x test.sh
 ./test.sh
 
-![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Trimestre2/Lab3/Cap%20EJ1.2.jpg)
-![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Trimestre2/Lab3/Cap%20EJ1.3.jpg)
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Trimestre2/Lab3/Cap%20EJ1.2.jpg);
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Trimestre2/Lab3/Cap%20EJ1.3.jpg);
