@@ -74,14 +74,9 @@ chmod +x /home/ncs/hello.sh
 cd /home/ncs
 ls
 
-![]()
-
 ### Ejecutar hello.sh:
 
 ./hello.sh
-
-
-![]()
 
 
 ### Crear bob.sh:
@@ -100,15 +95,10 @@ chmod +x /home/ncs/bob.sh
 cd /home/ncs
 ls
 
-![]()
 
 ### Ejecutar hello.sh:
 
 ./hello.sh
-
-
-![]()
-
 
 ### Crear smith.sh:
 
