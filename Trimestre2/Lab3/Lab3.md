@@ -105,3 +105,25 @@ ls
 echo -e "#!/bin/bash\necho 'Hello this is Smith'" > /home/ncs/smith.sh
 chmod +x /home/ncs/smith.sh
 ![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Trimestre2/Lab3/Cap%20Ej4.2.jpg)
+
+
+
+## Ejercicio 5
+
+
+### Crear el grupo sysadmins y añadir usuarios:
+
+groupadd sysadmins
+usermod -aG sysadmins bob
+usermod -aG sysadmins smith
+chown -R :sysadmins /home/ncs
+chmod -R 770 /home/ncs
+
+![]()
+
+
+### Deshabilitar cuenta smith:
+
+usermod --lock smith
+
+![]()
