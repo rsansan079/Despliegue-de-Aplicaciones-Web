@@ -119,11 +119,11 @@ usermod -aG sysadmins smith
 chown -R :sysadmins /home/ncs
 chmod -R 770 /home/ncs
 
-![]()
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Trimestre2/Lab3/Cap%20Ej5.1.jpg)
 
 
 ### Deshabilitar cuenta smith:
 
 usermod --lock smith
 
-![]()
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Trimestre2/Lab3/Cap%20Ej5.2.jpg)
