@@ -85,7 +85,7 @@ echo -e "#!/bin/bash\necho 'Hello this is Bob'" > /home/ncs/bob.sh
 chmod +x /home/ncs/bob.sh
 
 
-![]()
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Trimestre2/Lab3/Cap%20Ej4.1.jpg)
 
 
 
@@ -104,6 +104,4 @@ ls
 
 echo -e "#!/bin/bash\necho 'Hello this is Smith'" > /home/ncs/smith.sh
 chmod +x /home/ncs/smith.sh
-
-
-![]()
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Trimestre2/Lab3/Cap%20Ej4.2.jpg)
