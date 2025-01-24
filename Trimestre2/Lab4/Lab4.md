@@ -45,20 +45,20 @@ kill -l
 
 sudo nano /etc/inetd.conf
 
-![]()
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Trimestre2/Lab4/Ej4.1.jpg)
 
 ### 2.Reiniciar inetd:
 
 sudo systemctl restart inetd
 
-![]()
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Trimestre2/Lab4/Ej4.2.jpg)
 
 ### 3.Probar FTP y Telnet:
 
 ftp localhost
 telnet localhost
 
-![]()
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Trimestre2/Lab4/Ej4.3.jpg)
 
 ### 4.Deshabilitar FTP y reiniciar: 
 
