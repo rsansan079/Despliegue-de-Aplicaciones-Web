@@ -31,6 +31,7 @@ Envía una copia al destinatario smith@anglia.bryant y una copia oculta a root@a
 
 mail
 
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Trimestre2/Lab6/Cap2.1.jpg)
 
 ## Ejercicio 6.3: Explorar comando mail
 
@@ -47,9 +48,13 @@ Guardar: Escribe s <número_del_mensaje> <archivo>.
 
 ls -l /var/spool/mail/
 
+![]()
+
 ### Sesión SMTP: Desde la máquina Windows:
 
 telnet <ip_debian> 25
+
+![]()
 
 ### Habilitar POP3: Edita /etc/inetd.conf para descomentar la línea de POP3:
 
@@ -57,6 +62,7 @@ pop3 stream tcp nowait root /usr/sbin/tcpd /usr/sbin/pop3d
 
 Reinicia el servicio inetd
 
+![]()
 
 ## Ejercicio 6.4 OPcional
 
