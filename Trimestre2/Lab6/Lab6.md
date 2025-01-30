@@ -6,13 +6,13 @@
 
 echo "Hola Bob, este es un mensaje de prueba." > message.txt
 
-![]()
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Trimestre2/Lab6/Cap1.1.jpg)
 
 ### Enviar:
 
 mail -s "Prueba de correo" bob@localhost < message.txt
 
-![]()
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Trimestre2/Lab6/Cap1.3.jpg)
 
 ### Explicación del comando:
 
