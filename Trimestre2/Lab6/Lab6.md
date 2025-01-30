@@ -48,13 +48,13 @@ Guardar: Escribe s <número_del_mensaje> <archivo>.
 
 ls -l /var/spool/mail/
 
-![]()
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Trimestre2/Lab6/Cap3.1.jpg)
 
 ### Sesión SMTP: Desde la máquina Windows:
 
 telnet <ip_debian> 25
 
-![]()
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Trimestre2/Lab6/Cap3.2.jpg)
 
 ### Habilitar POP3: Edita /etc/inetd.conf para descomentar la línea de POP3:
 
@@ -62,8 +62,9 @@ pop3 stream tcp nowait root /usr/sbin/tcpd /usr/sbin/pop3d
 
 Reinicia el servicio inetd
 
-![]()
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Trimestre2/Lab6/Cap3.3.jpg)
 
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Trimestre2/Lab6/Cap3.4.jpg)
 ## Ejercicio 6.4 OPcional
 
 ### IMAP:
