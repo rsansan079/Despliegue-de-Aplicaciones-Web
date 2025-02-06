@@ -51,13 +51,13 @@ Es la página por defecto que carga Apache si no se especifica otra.
 
 ls -l /var/www/html/index.html
 
-![]()
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Trimestre2/Lab7/Cap3.1.jpg)
 
 ### Creando test.html
 
 sudo nano /var/www/html/test.html
 
-![]()
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Trimestre2/Lab7/Cap3.2.jpg)
 
 
 ## Ejercicio 7.4: Viendo archivos HTML en terminal
@@ -75,7 +75,7 @@ Es la dirección local del sistema (localhost).
 sudo apt install lynx
 lynx 127.0.0.1/test.html
 
-![]()
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Trimestre2/Lab7/Cap4.1.jpg)
 
 
 
@@ -92,7 +92,7 @@ sudo nano /var/www/html/nse.php
 
 lynx 127.0.0.1/nse.php
 
-![]()
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Trimestre2/Lab7/Cap5.1.jpg)
 
 
 
@@ -102,7 +102,7 @@ lynx 127.0.0.1/nse.php
 
 sudo nano /etc/hosts
 
-![]()
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Trimestre2/Lab7/Cap6.1.jpg)
 
 
 
@@ -111,7 +111,7 @@ sudo nano /etc/hosts
 lynx www.ejemplo.com
 
 
-![]()
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Trimestre2/Lab7/Cap6.2.jpg)
 
 
 
