@@ -15,13 +15,20 @@ for ip in 192.168.1.{1..255}; do
     fi
 done
 
+![]()
+
 ### Otorga permisos de ejecución:
 
 chmod +x ping.sh
 
+![]()
+
+
 ### Ejecuta el script:
 
 ./ping.sh
+
+![]()
 
 
 ## Ejercicio 10.1 - Información de usuarios y sistema
