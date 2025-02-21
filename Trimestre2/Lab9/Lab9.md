@@ -7,7 +7,7 @@
 nano ping.sh
 
 #!/bin/bash
-/# Cambia la base de dirección según tu red local (por ejemplo, 192.168.1)
+Cambia la base de dirección según tu red local (por ejemplo, 192.168.1)
 for ip in 192.168.1.{1..255}; do
     ping -c 2 $ip &> /dev/null
     if [ $? -eq 0 ]; then
