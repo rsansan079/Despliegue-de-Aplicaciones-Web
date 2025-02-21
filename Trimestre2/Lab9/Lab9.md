@@ -37,11 +37,14 @@ chmod +x ping.sh
 
 last -F | grep "$(date --date='2 days ago' '+%Y-%m-%d')" | wc -l
 
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Trimestre2/Lab9/Cap10.1.1.jpg)
+
+
 ### Número de reinicios del sistema en las últimas 48 horas:
 
 last reboot -F | grep "$(date --date='2 days ago' '+%Y-%m-%d')" | wc -l
 
-
+![](https://github.com/rsansan079/Despliegue-de-Aplicaciones-Web/blob/master/Trimestre2/Lab9/Cap10.1.2.jpg)
 
 
 ## Ejercicio 10.2 - Enlaces simbólicos y duros
